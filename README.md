@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Saúl Romero González
+# ¡Hola! 👋 Soy Saúl 
  
 **Desarrollador Backend Junior | Java & Spring Boot | Microservicios**
  
