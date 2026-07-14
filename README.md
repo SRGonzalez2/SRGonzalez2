@@ -19,7 +19,6 @@ Actualmente trabajo en **Hiberus IT** desarrollando servicios para **El Corte In
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
  
 ### Frontend
@@ -30,7 +29,7 @@ Actualmente trabajo en **Hiberus IT** desarrollando servicios para **El Corte In
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
  
 ### Arquitectura & Patrones
-- **Microservicios** | **Arquitectura Hexagonal** | **SOLID** | **MVC** | **GRASP**
+- **Microservicios** | **Arquitectura Hexagonal** | **SOLID** | **MVC** 
 ### Bases de Datos
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
